@@ -1,4 +1,4 @@
-# Week 1 - Introduction to PHP & MySQL
+# Week 1 - Introduction to PHP 
 
 ## 📚 Topics Covered
 
@@ -35,7 +35,7 @@ I learned how PHP works as a server-side programming language and how to run PHP
 
 ## 📁 Files
 
-* ![image alt](https://github.com/khaliifsahra/Php/blob/ef24e1b574aa16960b21f83e741097e2e9dceb83/My%20first%20PHP%20program.png)
+* my first_php_program ![image alt](https://github.com/khaliifsahra/Php/blob/ef24e1b574aa16960b21f83e741097e2e9dceb83/My%20first%20PHP%20program.png)
 * `02-php-syntax.php` - Basic PHP syntax
 * `03-variables.php` - Basic PHP variables
 
