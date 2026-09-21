@@ -11,6 +11,11 @@ This week, I learned the basics of PHP and web application development.
 * PHP Environment Setup
 * PHP Syntax Basics
 * Running PHP Applications
+* Constants and Variables
+* Control Structures
+
+
+  
 
 ## 🛠️ Tools Used
 
