@@ -36,8 +36,7 @@ I learned how PHP works as a server-side programming language and how to run PHP
 ## 📁 Files
 
 * my first_php_program ![image alt](https://github.com/khaliifsahra/Php/blob/ef24e1b574aa16960b21f83e741097e2e9dceb83/My%20first%20PHP%20program.png)
-* `02-php-syntax.php` - Basic PHP syntax
-* `03-variables.php` - Basic PHP variables
+* variables and control structure ![image alt](https://github.com/khaliifsahra/Php/blob/2344ac6130efe4235f8ed19617f37ff4a58a253f/image.png)
 
 ## 🚀 Progress
 
