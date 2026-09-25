@@ -2,12 +2,15 @@
 $n1 = 10;
 $n2 = 20;
 $n3 = 30;
-// ineed greather num
-if ($n1 >= $n2 && $n3) {
-    echo ("this nums is  same ");
-
+if ($n1 >= $n2 && $n1 >= $n3) {
+    echo "The  number are not same ";
+    echo "The greatest number is $n1";
+} elseif ($n2 >= $n1 && $n2 >= $n3) {
+    echo "The  number are not same ";
+    echo "The greatest number is $n2";
 } else {
-    echo ("this nums is not same ");
+    echo "The  number are not same ";
+    echo "The greatest number is $n3";
 }
 
 
