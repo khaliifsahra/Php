@@ -10,33 +10,23 @@
 
         <?php
         //q3 associative array of two dimensions where row names are CA202, CA207, and CA202,
-        $students = array(
-
-            "CA221" => array(
-                "Name" => "Mohamed Ahmed Ali",
-                "Phone" => "0648440403",
-                "Address" => "Laba Dhagax, Wardhiigley"
-            )
-
-        );
-
-        echo "q3";
+    
         $Stusents = array(
 
-            "CA221" => array(
+            "CA202" => array(
                 "Name" => "Mohamed Ahmed Ali",
                 "Phone" => "0648440403",
                 "Address" => "Laba Dhagax, Wardhiigley"
 
             ),
 
-            "CA223" => array(
+            "CA207" => array(
                 "Name" => "Ahmed Abdi Jama",
                 "Phone" => "0647223201",
                 "Address" => "Taleex, Hodan"
 
             ),
-            "CA222" => array(
+            "CA202" => array(
                 "Name" => "Amina Nur Adan",
                 "Phone" => "0646990276",
                 "Address" => "Macmacaanka, Dharkeynley"
